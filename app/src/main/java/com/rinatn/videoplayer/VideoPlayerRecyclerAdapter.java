@@ -10,7 +10,7 @@ import com.bumptech.glide.RequestManager;
 import com.rinat.videoplayer.R;
 import com.rinatn.videoplayer.models.MediaObject;
 
-import java.util.ArrayList;
+import java.util.ArrayList; 
 
 
 public class VideoPlayerRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
